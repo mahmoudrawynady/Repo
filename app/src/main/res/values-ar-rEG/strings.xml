@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!-- for arabic language and configration -->
+<resources>
+    <string name="app_name">Repo</string>
+    <string name="error_message">يوجد مشكلة فى تحميل البيانات، من فضلك تاكد من اتصالك بالانترنت</string>
+    <string name="connection_error">لا يوجد اتصال بالانترنت، من فضلك تاكد من اتصالك بالانترنت</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Repo</string>
+    <string name="error_message">We have a problem with Loading The Repositories, Please Check Your Connection and then reload </string>
+    <string name="connection_error">There is no Connection, please check your Connection and refresh  </string>
+    <string name="owner_html_label" translatable="false">Owner_HtmlUrl</string>
+    <string name="repository_html_label" translatable="false">Repository_HtmlUrl</string>
+    <string name="name_key" translatable="false">name</string>
+    <string name="description_key" translatable="false">description</string>
+    <string name="fork_key" translatable="false">fork</string>
+    <string name="html_key" translatable="false">html_url</string>
+    <string name="user_name_key" translatable="false">login</string>
+    <string name="owner_key" translatable="false">owner</string>
+    <string name="githup_info">GitHub is a Web-based Git version control repository hosting service. It is mostly used for computer code.</string>
+
+
+</resources>
